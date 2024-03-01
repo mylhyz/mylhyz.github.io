@@ -1,0 +1,21 @@
+/*- editor line width - fills entire editor -*/
+body {
+  --file-line-width: 90%;
+}
+
+div[data-path$="node_modules"],
+div[data-path$="node_modules"] + div.nav-folder-children {
+  display: none;
+}
+
+div[data-path$="public"],
+div[data-path$="public"] + div.nav-folder-children {
+  display: none;
+}
+
+
+
+div[data-path$="themes"],
+div[data-path$="themes"] + div.nav-folder-children {
+  display: none;
+}

@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "7d62aebba34e7608",
+    "type": "split",
+    "children": [
+      {
+        "id": "4436ec06301c82c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c30e72b189bb4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/折腾GithubPages-Hexo-NexT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10fb7f184b7e041c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e498ab6fd31168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1230c15a08d56382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d635b4b649fcd1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e978c3274e0f2854",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcdeee5c1be1338a",
+    "type": "split",
+    "children": [
+      {
+        "id": "568f0063d5955a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d108a1ef260583b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/折腾GithubPages-Hexo-NexT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91f9a3848344908a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/折腾GithubPages-Hexo-NexT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "440baac5b4ce80ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8435c57bea1ad12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/折腾GithubPages-Hexo-NexT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "81c30e72b189bb4c",
+  "lastOpenFiles": [
+    "scaffolds/hexo-template.md",
+    "source/_posts/折腾GithubPages-Hexo-NexT.md",
+    "source/_posts/处理.md",
+    "scaffolds/page.md",
+    "scaffolds/post.md",
+    "scaffolds/draft.md"
+  ]
+}
