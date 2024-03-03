@@ -1,6 +1,6 @@
 ---
 title: 折腾GithubPages-Hexo-NexT
-author: mylhyz
+author: AyuLyt
 date: 2024-03-01 17:15
 updated: 2024-03-01 17:15
 tags:
