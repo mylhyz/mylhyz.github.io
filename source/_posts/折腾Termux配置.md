@@ -3,7 +3,7 @@ title: 折腾Termux配置
 author: AyuLyt
 date: 2024-03-03 13:06
 updated: 2024-03-03 13:06
-description: Android搭建Termux环境
+excerpt: Android搭建Termux环境
 tags:
   - android
   - termux
