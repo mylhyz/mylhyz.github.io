@@ -43,3 +43,8 @@ https://theme-next.js.org/docs/getting-started/
 ### Waline评论系统
 
 [Hexo博客进阶：为 Next 主题添加 Waline 评论系统](https://qianfanguojin.top/2022/01/20/Hexo%E5%8D%9A%E5%AE%A2%E8%BF%9B%E9%98%B6%EF%BC%9A%E4%B8%BA-Next-%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0-Waline-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/)
+
+
+### 启用首页摘要
+
+[Front-matter中使用excerpt](https://hexo.io/zh-cn/docs/front-matter#%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE)
