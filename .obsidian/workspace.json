@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二进制编辑器.md",
+                "file": "source/_posts/二进制编辑器.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二进制格式解析.md",
+                "file": "source/_posts/二进制编辑器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82f0536684aebedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/二维码-检测与解码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa31b32e11b1f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/开发工具收集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27df6e50c3bd3ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/视频播放器组件折腾记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d460c74ad88f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/如何实现一门语言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "848307ef130b99d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/Android远程镜像.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aca5911d8f21fe92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/Chrome插件开发.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f30a1c86bd68a718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/Vim配置.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -158,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "二进制格式解析.md",
+                "file": "source/_posts/Vim配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "二进制格式解析.md",
+                "file": "source/_posts/Vim配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二进制格式解析.md"
+                "file": "source/_posts/Vim配置.md"
               }
             }
           }
@@ -220,10 +304,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f18ee4c86c8edc6",
+  "active": "1230c15a08d56382",
   "lastOpenFiles": [
-    "二进制编辑器.md",
-    "二进制格式解析.md",
+    "source/_posts/Chrome插件开发.md",
+    "source/_posts/Vim配置.md",
+    "source/_posts/Android远程镜像.md",
+    "source/_posts/如何实现一门语言.md",
+    "source/_posts/视频播放器组件折腾记录.md",
+    "source/_posts/开发工具收集.md",
+    "source/_posts/二进制格式解析.md",
+    "source/_posts/二进制编辑器.md",
+    "source/_posts/二维码-检测与解码.md",
     "source/_posts/持续集成服务.md",
     "source/_posts/Windows使用MiniGit.md",
     "source/_posts/Java字节码和JDK版本对应.md",
