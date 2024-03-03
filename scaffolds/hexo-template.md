@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-author: mylhyz
+author: AyuLyt
 date: <% tp.file.creation_date() %>
 updated: <% tp.file.last_modified_date() %>
 tags:
