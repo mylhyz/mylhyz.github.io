@@ -3,7 +3,7 @@ title: 折腾GithubPages-Hexo-NexT
 author: AyuLyt
 date: 2024-03-01 17:15
 updated: 2024-03-01 17:15
-description: 搭建GithubPages
+excerpt: 搭建GithubPages
 tags:
   - hexo
   - NexT

@@ -3,7 +3,7 @@ title: Windows使用MiniGit
 author: AyuLyt
 date: 2024-03-03 13:07
 updated: 2024-03-03 13:07
-description: 解决Windows下Git打开慢的问题
+excerpt: 解决Windows下Git打开慢的问题
 tags:
   - windows
   - git
