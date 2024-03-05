@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Vim配置.md",
+                "file": "source/_posts/视频播放器组件折腾记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Vim配置.md",
+                "file": "source/_posts/视频播放器组件折腾记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Vim配置.md",
+                "file": "source/_posts/视频播放器组件折腾记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Vim配置.md"
+                "file": "source/_posts/视频播放器组件折腾记录.md"
               }
             }
           }
@@ -304,12 +304,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1230c15a08d56382",
+  "active": "f30a1c86bd68a718",
   "lastOpenFiles": [
+    "source/_posts/如何实现一门语言.md",
+    "source/_posts/折腾GithubPages-Hexo-NexT.md",
     "source/_posts/Chrome插件开发.md",
     "source/_posts/Vim配置.md",
     "source/_posts/Android远程镜像.md",
-    "source/_posts/如何实现一门语言.md",
     "source/_posts/视频播放器组件折腾记录.md",
     "source/_posts/开发工具收集.md",
     "source/_posts/二进制格式解析.md",
@@ -319,7 +320,6 @@
     "source/_posts/Windows使用MiniGit.md",
     "source/_posts/Java字节码和JDK版本对应.md",
     "source/_posts/折腾Termux配置.md",
-    "source/_posts/折腾GithubPages-Hexo-NexT.md",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/prolog.js",
