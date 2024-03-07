@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "957515f50b44db46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编译Qt5.6.3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0145bba26daf8567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编译Qt5.15.12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/npm-link的替代品slink.md",
+                "file": "编译Qt5.15.12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/npm-link的替代品slink.md",
+                "file": "编译Qt5.15.12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/npm-link的替代品slink.md"
+                "file": "编译Qt5.15.12.md"
               }
             }
           }
@@ -147,8 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08790d6a8466bf5c",
+  "active": "0145bba26daf8567",
   "lastOpenFiles": [
+    "编译Qt5.6.3.md",
+    "编译Qt5.15.12.md",
     "source/_posts/npm-link的替代品slink.md",
     "source/_posts/Windows使用MiniGit.md",
     "source/_posts/视频播放器组件折腾记录.md",
@@ -188,8 +215,6 @@
     "node_modules/@next-theme/utils/README.md",
     "scaffolds/hexo-template.md",
     "source/_posts/处理.md",
-    "scaffolds/page.md",
-    "scaffolds/post.md",
-    "scaffolds/draft.md"
+    "scaffolds/page.md"
   ]
 }
