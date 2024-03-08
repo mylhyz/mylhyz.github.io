@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译Qt5.6.3.md",
+                "file": "编译Qt5.6.3-PENDING.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
   },
   "active": "0145bba26daf8567",
   "lastOpenFiles": [
-    "编译Qt5.6.3.md",
+    "编译Qt5.6.3-PENDING.md",
     "编译Qt5.15.12.md",
     "source/_posts/npm-link的替代品slink.md",
     "source/_posts/Windows使用MiniGit.md",

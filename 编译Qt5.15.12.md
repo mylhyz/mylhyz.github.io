@@ -14,8 +14,28 @@ https://gitlab.com/qt5-project-x/qt5/-/tree/qt5-v5.15.12-build-macosx?ref_type=h
 
 # Mac
 
+编译环境
+```
+# perl
+This is perl 5, version 38, subversion 2 (v5.38.2) built for darwin-thread-multi-2level
+
+# python
+Python 2.7.18
+
+# clang
+Apple clang version 15.0.0 (clang-1500.3.9.4)
+Target: x86_64-apple-darwin23.3.0
+```
+
 编译配置
 
 ```bash
 ./configure -prefix /Users/mylhyz/Downloads/qt5-libs -opensource -confirm-license -no-compile-examples -nomake examples -nomake tests
 ```
+
+
+# Windows
+
+编译环境
+
+编译配置

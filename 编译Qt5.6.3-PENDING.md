@@ -10,6 +10,8 @@ tags:
   - mac
   - linux
 ---
+> 由于在Mac上尝试编译直接就有相关报错，适配的问题较多，暂时搁置
+
 实际上目前Qt5.6.3的安装包和源码还都是可以找到的
 https://download.qt.io/new_archive/qt/5.6/5.6.3/
 
