@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/持续集成服务.md",
+                "file": "编译Qt5.15.12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "603444a776b482c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/Android-cpuinfo解读.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/持续集成服务.md",
+                "file": "source/_posts/Android-cpuinfo解读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/持续集成服务.md",
+                "file": "source/_posts/Android-cpuinfo解读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/持续集成服务.md"
+                "file": "source/_posts/Android-cpuinfo解读.md"
               }
             }
           }
@@ -172,8 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0145bba26daf8567",
+  "active": "1230c15a08d56382",
   "lastOpenFiles": [
+    "编译Qt5.15.12.md",
+    "source/_posts/Android-cpuinfo解读.md",
+    "编译Qt5.6.3-PENDING.md",
+    "source/_posts/持续集成服务.md",
     "source/_posts/二进制编辑器.md",
     "source/_posts/二进制格式解析.md",
     "source/_posts/二维码-检测与解码.md",
@@ -187,9 +203,6 @@
     "source/_posts/npm-link的替代品slink.md",
     "source/_posts/Vim配置.md",
     "source/_posts/Windows使用MiniGit.md",
-    "编译Qt5.15.12.md",
-    "编译Qt5.6.3-PENDING.md",
-    "source/_posts/持续集成服务.md",
     "source/_posts/Java字节码和JDK版本对应.md",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
@@ -214,7 +227,6 @@
     "node_modules/@waline/hexo-next/README.md",
     "node_modules/@next-theme/utils/README.md",
     "scaffolds/hexo-template.md",
-    "source/_posts/处理.md",
-    "scaffolds/page.md"
+    "source/_posts/处理.md"
   ]
 }
