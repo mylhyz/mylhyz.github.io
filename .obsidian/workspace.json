@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1733416e8eaa5088",
+        "id": "b1c6f1a520672519",
         "type": "tabs",
         "children": [
           {
-            "id": "08790d6a8466bf5c",
+            "id": "92ba910338230501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/免费云服务.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda5411111de2dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/Apple平台开发工具链.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "957515f50b44db46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编译Qt5.6.3-PENDING.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0145bba26daf8567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编译Qt5.15.12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "603444a776b482c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/Android-cpuinfo解读.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d527c012d9b4d619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编译Qt5.15.12.md",
+                "file": "source/_posts/iOS开发.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/免费云服务.md",
+                "file": "source/_posts/iOS开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/免费云服务.md",
+                "file": "source/_posts/iOS开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/免费云服务.md"
+                "file": "source/_posts/iOS开发.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,23 +148,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08790d6a8466bf5c",
+  "active": "92ba910338230501",
   "lastOpenFiles": [
-    "source/_posts/Apple平台开发工具链.md",
+    "Pasted image 20240403160416.png",
+    "source/_posts/iOS开发.md",
+    "source/_posts/开发工具收集.md",
+    "source/_posts/折腾GithubPages-Hexo-NexT.md",
     "source/_posts/免费云服务.md",
-    "source/_posts/npm-link的替代品slink.md",
     "编译Qt5.6.3-PENDING.md",
-    "编译Qt5.15.12.md",
     "source/_posts/Android-cpuinfo解读.md",
+    "source/_posts/npm-link的替代品slink.md",
+    "编译Qt5.15.12.md",
     "source/_posts/持续集成服务.md",
     "source/_posts/二进制编辑器.md",
     "source/_posts/二进制格式解析.md",
     "source/_posts/二维码-检测与解码.md",
-    "source/_posts/开发工具收集.md",
     "source/_posts/如何实现一门语言.md",
     "source/_posts/视频播放器组件折腾记录.md",
     "source/_posts/折腾Termux配置.md",
-    "source/_posts/折腾GithubPages-Hexo-NexT.md",
     "source/_posts/Android远程镜像.md",
     "source/_posts/Chrome插件开发.md",
     "source/_posts/Vim配置.md",
@@ -249,7 +191,6 @@
     "node_modules/@next-theme/utils/node_modules/highlight.js/README.md",
     "node_modules/@next-theme/utils/node_modules/hexo-util/README.md",
     "node_modules/@next-theme/utils/node_modules/entities/readme.md",
-    "node_modules/@waline/hexo-next/README.md",
-    "node_modules/@next-theme/utils/README.md"
+    "node_modules/@waline/hexo-next/README.md"
   ]
 }
