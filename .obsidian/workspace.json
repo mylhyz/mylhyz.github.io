@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Android-Material3组件使用.md",
+                "file": "source/_posts/免费云服务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a710c64a8d239cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang-替换不可用包为私有仓库.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Android-Material3组件使用.md",
+                "file": "Golang-替换不可用包为私有仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Android-Material3组件使用.md",
+                "file": "Golang-替换不可用包为私有仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Android-Material3组件使用.md"
+                "file": "Golang-替换不可用包为私有仓库.md"
               }
             }
           }
@@ -161,14 +173,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1230c15a08d56382",
+  "active": "1a710c64a8d239cb",
   "lastOpenFiles": [
+    "source/_posts/免费云服务.md",
+    "Golang-替换不可用包为私有仓库.md",
+    "source/_posts/开发工具收集.md",
     "source/_posts/iOS开发.md",
     "source/_posts/Android-Material3组件使用.md",
     "Pasted image 20240403160416.png",
-    "source/_posts/开发工具收集.md",
     "source/_posts/折腾GithubPages-Hexo-NexT.md",
-    "source/_posts/免费云服务.md",
     "编译Qt5.6.3-PENDING.md",
     "source/_posts/Android-cpuinfo解读.md",
     "source/_posts/npm-link的替代品slink.md",
@@ -204,7 +217,6 @@
     "node_modules/@next-theme/utils/node_modules/htmlparser2/README.md",
     "node_modules/@next-theme/utils/node_modules/highlight.js/README.md",
     "node_modules/@next-theme/utils/node_modules/hexo-util/README.md",
-    "node_modules/@next-theme/utils/node_modules/entities/readme.md",
-    "node_modules/@waline/hexo-next/README.md"
+    "node_modules/@next-theme/utils/node_modules/entities/readme.md"
   ]
 }
