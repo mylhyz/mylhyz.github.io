@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/一些JS引擎相关的项目.md",
+                "file": "source/_posts/Android-Material3组件使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78a9cbb60e3f4095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android-查看动态库编译使用的NDK版本.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Golang-替换不可用包为私有仓库.md",
+                "file": "Android-查看动态库编译使用的NDK版本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Golang-替换不可用包为私有仓库.md",
+                "file": "Android-查看动态库编译使用的NDK版本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Golang-替换不可用包为私有仓库.md"
+                "file": "Android-查看动态库编译使用的NDK版本.md"
               }
             }
           }
@@ -185,32 +197,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1230c15a08d56382",
+  "active": "78a9cbb60e3f4095",
   "lastOpenFiles": [
-    "source/_posts/Golang-替换不可用包为私有仓库.md",
-    "source/_posts/一些JS引擎相关的项目.md",
-    "source/_posts/iOS开发.md",
-    "source/_posts/免费云服务.md",
-    "source/_posts/开发工具收集.md",
-    "source/_posts/Android-Material3组件使用.md",
-    "Pasted image 20240403160416.png",
-    "source/_posts/折腾GithubPages-Hexo-NexT.md",
-    "编译Qt5.6.3-PENDING.md",
-    "source/_posts/Android-cpuinfo解读.md",
-    "source/_posts/npm-link的替代品slink.md",
-    "编译Qt5.15.12.md",
-    "source/_posts/持续集成服务.md",
+    "source/_posts/Windows-使用MiniGit.md",
     "source/_posts/二进制编辑器.md",
+    "source/_posts/持续集成服务.md",
     "source/_posts/二进制格式解析.md",
+    "source/_posts/开发工具收集.md",
     "source/_posts/二维码-检测与解码.md",
+    "source/_posts/免费云服务.md",
     "source/_posts/如何实现一门语言.md",
+    "source/_posts/一些JS引擎相关的项目.md",
     "source/_posts/视频播放器组件折腾记录.md",
     "source/_posts/折腾Termux配置.md",
-    "source/_posts/Android远程镜像.md",
-    "source/_posts/Chrome插件开发.md",
-    "source/_posts/Vim配置.md",
-    "source/_posts/Windows使用MiniGit.md",
+    "source/_posts/折腾GithubPages-Hexo-NexT.md",
+    "source/_posts/Android-Material3组件使用.md",
+    "source/_posts/Chrome-插件开发.md",
+    "source/_posts/Golang-替换不可用包为私有仓库.md",
+    "source/_posts/iOS开发.md",
     "source/_posts/Java字节码和JDK版本对应.md",
+    "source/_posts/npm-link的替代品slink.md",
+    "source/_posts/Vim-配置.md",
+    "source/_posts/Android-远程镜像.md",
+    "Android-查看动态库编译使用的NDK版本.md",
+    "Pasted image 20240403160416.png",
+    "编译Qt5.6.3-PENDING.md",
+    "source/_posts/Android-cpuinfo解读.md",
+    "编译Qt5.15.12.md",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/prolog.js",
@@ -228,7 +241,6 @@
     "node_modules/@next-theme/utils/node_modules/highlight.js/scss/pojoaque.jpg",
     "node_modules/@next-theme/utils/node_modules/highlight.js/scss/brown-papersq.png",
     "node_modules/@next-theme/utils/node_modules/htmlparser2/README.md",
-    "node_modules/@next-theme/utils/node_modules/highlight.js/README.md",
-    "node_modules/@next-theme/utils/node_modules/hexo-util/README.md"
+    "node_modules/@next-theme/utils/node_modules/highlight.js/README.md"
   ]
 }
