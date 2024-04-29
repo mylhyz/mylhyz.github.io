@@ -3,8 +3,10 @@ title: Android-查看动态库编译使用的NDK版本
 author: AyuLyt
 date: 2024-04-19 15:45
 updated: 2024-04-19 15:48
-excerpt: 默认摘要
+excerpt: 如何通过so文件分析使用的ndk版本
 tags:
+  - android
+  - ndk
 ---
 
 NDK官网可以查看每个NDK版本对应的clang版本
