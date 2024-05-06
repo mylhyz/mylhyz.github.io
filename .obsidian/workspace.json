@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c6f1a520672519",
+        "id": "54d87130f418e532",
         "type": "tabs",
         "children": [
           {
-            "id": "f9007bd253097a05",
+            "id": "25bceba5b91765aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编译Qt5.15.12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a0850253c0393b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/Java-Agent开发.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Java-Agent开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Java-Agent开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/Java-Agent开发.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,9 +140,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1230c15a08d56382",
+  "active": "25bceba5b91765aa",
   "lastOpenFiles": [
     "编译Qt5.15.12.md",
+    "编译JDK8历史版本.md",
     "source/_posts/Java-Agent开发.md",
     "source/_posts/DiscordBot-开发资料.md",
     "source/_posts/免费云服务.md",
@@ -189,7 +169,6 @@
     "source/_posts/Android-远程镜像.md",
     "Pasted image 20240403160416.png",
     "编译Qt5.6.3-PENDING.md",
-    "source/_posts/Android-cpuinfo解读.md",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/prolog.js",
