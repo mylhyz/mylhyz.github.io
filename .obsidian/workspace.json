@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e906e58969ca3dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/Vim-配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/免费云服务.md",
+                "file": "source/_posts/Vim-配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/免费云服务.md",
+                "file": "source/_posts/Vim-配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/免费云服务.md"
+                "file": "source/_posts/Vim-配置.md"
               }
             }
           }
@@ -134,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +161,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "373ea0960b338cd2",
+  "active": "e906e58969ca3dc5",
   "lastOpenFiles": [
+    "source/_posts/RIME-折腾笔记.md",
+    "source/_posts/免费云服务.md",
     "source/_posts/DiscordBot-开发资料.md",
     "source/_posts/编译JDK8历史版本.md",
     "编译Qt5.15.12.md",
     "source/_posts/Java-Agent开发.md",
-    "source/_posts/免费云服务.md",
     "source/_posts/持续集成服务.md",
     "source/_posts/二进制格式解析.md",
     "source/_posts/开发工具收集.md",
@@ -175,7 +190,6 @@
     "source/_posts/Vim-配置.md",
     "source/_posts/Android-远程镜像.md",
     "Pasted image 20240403160416.png",
-    "编译Qt5.6.3-PENDING.md",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/prolog.js",
