@@ -19,7 +19,7 @@ NDK官网可以查看每个NDK版本对应的clang版本
 - **Updated Clang to build 4691093, based on r316199**
 
 
-在本地通过readelf查看so的信息就可以知道so编译使用的clang版本；
+在本地通过readelf查看so的信息就可以知道so编译使用的clang版本；[[Android-Smali调试]]
 
 ```bash
 toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/arm-linux-androideabi-readelf -p ".comment" libfb.so

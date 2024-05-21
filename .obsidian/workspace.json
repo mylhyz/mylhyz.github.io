@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADB架构学习.md",
+                "file": "source/_posts/ADB架构学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADB架构学习.md",
+                "file": "source/_posts/ADB架构学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADB架构学习.md",
+                "file": "source/_posts/ADB架构学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADB架构学习.md"
+                "file": "source/_posts/ADB架构学习.md"
               }
             }
           }
@@ -175,8 +175,12 @@
   },
   "active": "92f5bb78669bf573",
   "lastOpenFiles": [
+    "source/_posts/Android-Smali调试.md",
+    "source/_posts/ADB架构学习.md",
+    "source/_posts/Android-查看动态库编译使用的NDK版本.md",
+    "source/_posts/Chrome-插件开发.md",
+    "source/_posts/Android-远程镜像.md",
     "前端自动化.md",
-    "ADB架构学习.md",
     "source/_posts/免费云服务.md",
     "source/_posts/Vim-配置.md",
     "source/_posts/JVM系统监控.md",
@@ -189,7 +193,6 @@
     "source/_posts/二进制格式解析.md",
     "source/_posts/开发工具收集.md",
     "source/_posts/iOS开发.md",
-    "source/_posts/Android-查看动态库编译使用的NDK版本.md",
     "source/_posts/Windows-使用MiniGit.md",
     "source/_posts/二进制编辑器.md",
     "source/_posts/二维码-检测与解码.md",
@@ -198,9 +201,6 @@
     "source/_posts/视频播放器组件折腾记录.md",
     "source/_posts/折腾Termux配置.md",
     "source/_posts/折腾GithubPages-Hexo-NexT.md",
-    "source/_posts/Android-Material3组件使用.md",
-    "source/_posts/Chrome-插件开发.md",
-    "source/_posts/Golang-替换不可用包为私有仓库.md",
     "Pasted image 20240403160416.png",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
