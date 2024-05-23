@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开源生产力工具.md",
+                "file": "source/_posts/开源生产力工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源生产力工具.md",
+                "file": "source/_posts/开源生产力工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开源生产力工具.md",
+                "file": "source/_posts/开源生产力工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开源生产力工具.md"
+                "file": "source/_posts/开源生产力工具.md"
               }
             }
           }
@@ -188,7 +188,7 @@
   "active": "7e23daa8b7702666",
   "lastOpenFiles": [
     "source/_posts/开发工具收集.md",
-    "开源生产力工具.md",
+    "source/_posts/开源生产力工具.md",
     "source/_posts/JVM系统监控.md",
     "source/_posts/ADB架构学习.md",
     "source/_posts/免费云服务.md",
