@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99e47bd5a76a0593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android应用抓包实践.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/开源生产力工具.md",
+                "file": "Android应用抓包实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/开源生产力工具.md",
+                "file": "Android应用抓包实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/开源生产力工具.md"
+                "file": "Android应用抓包实践.md"
               }
             }
           }
@@ -148,10 +161,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e23daa8b7702666",
+  "active": "99e47bd5a76a0593",
   "lastOpenFiles": [
-    "source/_posts/开发工具收集.md",
     "source/_posts/开源生产力工具.md",
+    "Android应用抓包实践.md",
+    "source/_posts/开发工具收集.md",
     "source/_posts/JVM系统监控.md",
     "source/_posts/ADB架构学习.md",
     "source/_posts/免费云服务.md",
@@ -175,7 +189,6 @@
     "source/_posts/如何实现一门语言.md",
     "source/_posts/一些JS引擎相关的项目.md",
     "source/_posts/视频播放器组件折腾记录.md",
-    "source/_posts/折腾Termux配置.md",
     "Pasted image 20240403160416.png",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
