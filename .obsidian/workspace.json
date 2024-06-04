@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android应用抓包实践.md",
+                "file": "source/_posts/Android应用抓包实践.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android应用抓包实践.md",
+                "file": "source/_posts/Android应用抓包实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android应用抓包实践.md",
+                "file": "source/_posts/Android应用抓包实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android应用抓包实践.md"
+                "file": "source/_posts/Android应用抓包实践.md"
               }
             }
           }
@@ -161,10 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99e47bd5a76a0593",
+  "active": "1230c15a08d56382",
   "lastOpenFiles": [
     "source/_posts/开源生产力工具.md",
-    "Android应用抓包实践.md",
+    "source/_posts/Android应用抓包实践.md",
     "source/_posts/开发工具收集.md",
     "source/_posts/JVM系统监控.md",
     "source/_posts/ADB架构学习.md",
