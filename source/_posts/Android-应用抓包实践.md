@@ -45,3 +45,14 @@ https://github.com/gloeyisk/systemless-hosts
 通过修改此模块的hosts文件并重打包；
 可以解决上述方案中 hosts 无法修改的问题
 
+
+# tcpdump
+
+https://www.androidtcpdump.com/
+
+直接通过此方案可以一步到位抓取手机设备上几乎所有包，用来分析TCP/IP，HTTPS等的请求流程，失败原因都可以
+参考：https://blog.csdn.net/csdnzouqi/article/details/111468462
+
+
+
+
