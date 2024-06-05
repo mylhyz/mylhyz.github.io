@@ -32,13 +32,20 @@ tags:
 - https://github.com/reqable/reqable-app 原HttpCanary
 - 如果无法安装证书，可以尝试在magisk中安装即可正常抓包
 
+# tcpdump
+
+https://www.androidtcpdump.com/
+
+直接通过此方案可以一步到位抓取手机设备上几乎所有包，用来分析TCP/IP，HTTPS等的请求流程，失败原因都可以
+参考：https://blog.csdn.net/csdnzouqi/article/details/111468462
+
 # 修改hosts
 
 - Android 11 LineageOS
 
 分区文件系统无法简单挂载 /system，因此该方案pass
 
-# Magisk插件
+# Magisk插件修改hosts
 
 https://github.com/gloeyisk/systemless-hosts
 
@@ -46,12 +53,7 @@ https://github.com/gloeyisk/systemless-hosts
 可以解决上述方案中 hosts 无法修改的问题
 
 
-# tcpdump
 
-https://www.androidtcpdump.com/
-
-直接通过此方案可以一步到位抓取手机设备上几乎所有包，用来分析TCP/IP，HTTPS等的请求流程，失败原因都可以
-参考：https://blog.csdn.net/csdnzouqi/article/details/111468462
 
 
 
