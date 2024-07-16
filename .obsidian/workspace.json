@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译Qt5.15.12.md",
+                "file": "source/_posts/Windows-使用MiniGit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译Qt5.15.12.md",
+                "file": "source/_posts/Windows-使用MiniGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译Qt5.15.12.md",
+                "file": "source/_posts/Windows-使用MiniGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译Qt5.15.12.md"
+                "file": "source/_posts/Windows-使用MiniGit.md"
               }
             }
           }
@@ -150,14 +150,17 @@
   },
   "active": "7e23daa8b7702666",
   "lastOpenFiles": [
+    "source/_posts/iOS开发.md",
+    "source/_posts/nvm启动速度优化.md",
+    "source/_posts/Vim-配置.md",
+    "source/_posts/Golang-替换不可用包为私有仓库.md",
+    "编译Qt5.6.3-PENDING.md",
+    "编译Qt5.15.12.md",
     "source/_posts/视频播放器组件折腾记录.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "source/_posts/nvm启动速度优化.md",
     "source/_posts/编译JDK8历史版本.md",
     "source/_posts/Java字节码和JDK版本对应.md",
-    "source/_posts/iOS开发.md",
-    "source/_posts/Golang-替换不可用包为私有仓库.md",
     "source/_posts/Android-远程镜像.md",
     "source/_posts/Windows-使用MiniGit.md",
     "source/_posts/Android-应用抓包实践.md",
@@ -175,8 +178,6 @@
     "source/_posts/JVM系统监控.md",
     "source/_posts/持续集成服务.md",
     "source/_posts/ADB架构学习.md",
-    "编译Qt5.6.3-PENDING.md",
-    "source/_posts/开发工具收集.md",
     "Pasted image 20240403160416.png",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
