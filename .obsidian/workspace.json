@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zazu-Launcher移植到新版本Electron-TODO.md",
+                "file": "source/_posts/Windows-使用MiniGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zazu-Launcher移植到新版本Electron-TODO.md",
+                "file": "source/_posts/Windows-使用MiniGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zazu-Launcher移植到新版本Electron-TODO.md"
+                "file": "source/_posts/Windows-使用MiniGit.md"
               }
             }
           }
@@ -162,10 +161,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59ee59a73e7da2dc",
+  "active": "7e23daa8b7702666",
   "lastOpenFiles": [
-    "source/_posts/Windows-使用MiniGit.md",
     "Zazu-Launcher移植到新版本Electron-TODO.md",
+    "source/_posts/Windows-使用MiniGit.md",
     "source/_posts/iOS开发.md",
     "source/_posts/nvm启动速度优化.md",
     "source/_posts/Vim-配置.md",
