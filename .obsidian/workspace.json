@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59ee59a73e7da2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zazu-Launcher移植到新版本Electron-TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fcdeee5c1be1338a",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Windows-使用MiniGit.md",
+                "file": "Zazu-Launcher移植到新版本Electron-TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Windows-使用MiniGit.md",
+                "file": "Zazu-Launcher移植到新版本Electron-TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Windows-使用MiniGit.md"
+                "file": "Zazu-Launcher移植到新版本Electron-TODO.md"
               }
             }
           }
@@ -148,8 +162,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e23daa8b7702666",
+  "active": "59ee59a73e7da2dc",
   "lastOpenFiles": [
+    "source/_posts/Windows-使用MiniGit.md",
+    "Zazu-Launcher移植到新版本Electron-TODO.md",
     "source/_posts/iOS开发.md",
     "source/_posts/nvm启动速度优化.md",
     "source/_posts/Vim-配置.md",
@@ -162,7 +178,6 @@
     "source/_posts/编译JDK8历史版本.md",
     "source/_posts/Java字节码和JDK版本对应.md",
     "source/_posts/Android-远程镜像.md",
-    "source/_posts/Windows-使用MiniGit.md",
     "source/_posts/Android-应用抓包实践.md",
     "source/_posts/开源生产力工具.md",
     "source/_posts/二进制编辑器.md",
@@ -177,7 +192,6 @@
     "source/_posts/DiscordBot-开发资料.md",
     "source/_posts/JVM系统监控.md",
     "source/_posts/持续集成服务.md",
-    "source/_posts/ADB架构学习.md",
     "Pasted image 20240403160416.png",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/properties.js",
     "node_modules/@next-theme/utils/node_modules/highlight.js/lib/languages/powershell.js",
