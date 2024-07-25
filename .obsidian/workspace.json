@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编译Qt5.15.12.md",
+                "file": "编译Qt5.6.3-PENDING.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编译Qt5.15.12.md",
+                "file": "编译Qt5.6.3-PENDING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编译Qt5.15.12.md",
+                "file": "编译Qt5.6.3-PENDING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编译Qt5.15.12.md"
+                "file": "编译Qt5.6.3-PENDING.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "59ee59a73e7da2dc",
   "lastOpenFiles": [
+    "编译Qt5.15.12.md",
     "deprecated/Zazu-Launcher移植到新版本Electron-废弃.md",
     "deprecated",
     "source/_posts/Windows-使用MiniGit.md",
@@ -171,7 +172,6 @@
     "source/_posts/Vim-配置.md",
     "source/_posts/Golang-替换不可用包为私有仓库.md",
     "编译Qt5.6.3-PENDING.md",
-    "编译Qt5.15.12.md",
     "source/_posts/视频播放器组件折腾记录.md",
     "未命名.canvas",
     "未命名 1.canvas",
