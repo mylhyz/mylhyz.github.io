@@ -10,7 +10,10 @@ tags:
   - windows
 ---
 直接fork了官方仓库并在5.15.12版本上创建了分支
-https://gitlab.com/qt5-project-x/qt5/-/tree/qt5-v5.15.12-build-macosx?ref_type=heads
+
+- https://gitlab.com/qt5-project-x/qt5/-/tree/qt5-v5.15.12-build-macosx?ref_type=heads
+
+- https://gitlab.com/qt5-project-x/qt5/-/tree/qt5-v5.15.12-build-windows?ref_type=heads
 
 # Mac
 
