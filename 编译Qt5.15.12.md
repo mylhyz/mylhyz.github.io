@@ -38,4 +38,21 @@ Target: x86_64-apple-darwin23.3.0
 
 编译环境
 
+```
+# perl
+This is perl 5, version 32, subversion 1 (v5.32.1) built for MSWin32-x64-multi-thread
+
+# python
+Python 2.7.18
+
+# clang
+Apple clang version 15.0.0 (clang-1500.3.9.4)
+Target: x86_64-apple-darwin23.3.0
+```
+
 编译配置
+（如需使用msvc编译，在visual studio的命令行下运行configure即可）
+
+```cmd
+configure -prefix C:\github\qt5_install -opensource -confirm-license -nomake examples -nomake tests
+```
