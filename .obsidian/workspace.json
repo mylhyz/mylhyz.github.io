@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/前端NodeJS相关工具.md",
+                "file": "source/_posts/Windows-使用MiniGit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/前端NodeJS相关工具.md",
+                "file": "source/_posts/Windows-使用MiniGit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/前端NodeJS相关工具.md"
+                "file": "source/_posts/Windows-使用MiniGit.md"
               }
             }
           }
@@ -197,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1230c15a08d56382",
+  "active": "7e23daa8b7702666",
   "lastOpenFiles": [
     "source/_posts/sh环境配置记录.md",
     "source/_posts/前端NodeJS相关工具.md",
