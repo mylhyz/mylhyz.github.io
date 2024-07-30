@@ -8,6 +8,8 @@ tags:
   - windows
   - git
 ---
+解决默认安装的Git集成版本在打开bash窗口时非常慢
+
 - 需要额外安装 https://github.com/git-ecosystem/git-credential-manager
 安装后还需要执行一下 git-cr-mana configure 才能配置到git中
 
